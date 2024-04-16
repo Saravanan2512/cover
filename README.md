@@ -198,7 +198,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Saravanan2512/cover/assets/144979117/7a420947-b85f-4e79-968c-68ead07d2138)
+
 
 
 
